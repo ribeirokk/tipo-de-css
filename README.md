@@ -1,1 +1,1 @@
-# tipo-de-css
+# tipos-de-css
